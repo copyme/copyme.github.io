@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Computer Science with honors (avec mention A), University Paris-Est Marne-la-Vallée, 2014
+* Ph.D in Computer Science, University Paris-Est, 2017 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From November 2012 until August 2013
+  * Lodz University of Technology
+  * Duties included: Delphi and PL/SQL developer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* From September 2014 present
+  * University Paris-Est
+  * Duties included: Research and teaching
 
 Publications
 ======
@@ -54,6 +42,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+
+Software
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.software %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Awards & Interviews
+======
+  <ul>{% for post in site.misc %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
