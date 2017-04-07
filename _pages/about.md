@@ -13,6 +13,6 @@ Bézout in computer science and mathematics at the University Paris-Est, France 
 obtained a master degree in computer science in 2014, and where I currently pursues doctoral
 studies.  
 
-My research focuses on topological and geometrical alterations of digital sets induced by digitized
-rigid motions defined on regular grids. 
+My research focuses on topological and geometrical alterations induced by digitized rigid motions
+defined on regular grids. 
 
