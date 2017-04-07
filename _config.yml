@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kacper Pluta"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Kacper Pluta"
 description              : &description "PhD candidate at University Paris-Est"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : Kacper Pluta
   avatar           : "KACPER_PLUTA.png"
   bio              : "I am a PhD student in Computer Science at University Paris-Est where I am a part of laboratories LAMA and LIGM (team A3SI)."
   location         : "Paris, France"

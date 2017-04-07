@@ -7,7 +7,7 @@ venue: "University Paris-Est Marne-la-Vallée, SIS"
 date: 2016-01-01
 location: "Champs sur Marne, Île-de-France, France"
 ---
-**Topic:** Introduction to digital geometry. We asked students to use [**DGTal**](http://dgtal.org) to
+**Topic:** Introduction to digital geometry. We asked students to use [**DGtal**](http://dgtal.org) to
 implemented several notions in the framework of digital geometry.
 
 
