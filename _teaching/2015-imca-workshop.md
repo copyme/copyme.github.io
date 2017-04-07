@@ -1,5 +1,5 @@
 ---
-title: "Traitement Analysé & Synthèse d'Images"
+title: "Traitement Analysé et Synthèse d'Images"
 collection: teaching
 type: "Workshop/Master 1"
 permalink: /teaching/2015-imca-workshop

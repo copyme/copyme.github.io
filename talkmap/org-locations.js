@@ -1,13 +1,8 @@
 var addressPoints = [
   [
-    "Nantes, Bretagne, France",
-    48.0237928,
-    -2.697659
-  ],
-  [
-    "S\u0142ok, \u0142\u00f3dzkie, Poland",
-    51.2819954,
-    19.3630667
+    "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
+    45.7578137,
+    4.8320114
   ],
   [
     "Obernai, Alsace, France",
@@ -15,14 +10,14 @@ var addressPoints = [
     7.4817123
   ],
   [
-    "\u0141\u00f3d\u017a, \u0142\u00f3dzkie, Poland",
-    51.7687323,
-    19.4569911
+    "Nantes, Loire-Atlantique, France",
+    47.2186371,
+    -1.5541361
   ],
   [
-    "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
-    45.7578137,
-    4.8320114
+    "Nancy, Alsace-Lorraine, France",
+    48.6937223,
+    6.1834097
   ],
   [
     "Noisy-le-Grand, \u00cele-de-France, France",
@@ -35,9 +30,19 @@ var addressPoints = [
     2.3436609
   ],
   [
+    "S\u0142ok, \u0142\u00f3dzkie, Poland",
+    51.2819954,
+    19.3630667
+  ],
+  [
     "Marseilles, Provence-Alpes-C\u00f4te d'Azur, France",
     43.2921491,
     5.3749207
+  ],
+  [
+    "Bucharest, Romania",
+    44.4361414,
+    26.1027202
   ],
   [
     "Reims, Champagne-Ardenne, France",
@@ -45,13 +50,8 @@ var addressPoints = [
     4.031926
   ],
   [
-    "Nancy, Alsace-Lorraine, France",
-    48.6937223,
-    6.1834097
-  ],
-  [
-    "Bucharest, Romania",
-    44.4361414,
-    26.1027202
+    "\u0141\u00f3d\u017a, \u0142\u00f3dzkie, Poland",
+    51.7687323,
+    19.4569911
   ]
 ];
