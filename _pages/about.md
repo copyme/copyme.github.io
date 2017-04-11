@@ -11,7 +11,7 @@ I obtained my engineering degree in computer science at the University of Comput
 Skills, Poland in 2013. I was admitted to the research oriented master program [Labex Bézout in
 computer science and mathematics at the University
 Paris-Est](http://bezout.univ-paris-est.fr/en/master-s-program), France from where I obtained a
-master degree in computer science in 2014, and where I currently pursues doctoral studies under the
+master degree in computer science in 2014, and where I currently pursue doctoral studies under the
 supervision of [Yukiko Kenmochi](http://igm.univ-mlv.fr/~kenmochi/) and [Pascal
 Romon](http://perso-math.univ-mlv.fr/users/romon.pascal/).  We collaborate with [Nicolas
 Passat](http://crestic.univ-reims.fr/membre/1542-nicolas-passat) and [Guillaume
