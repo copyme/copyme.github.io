@@ -15,7 +15,7 @@ result is an implementation of ParDirCollapse, CollapseSurface and CollapseIsthm
 submitted to [DGtal](http://dgtal.org/doc/stable/classDGtal_1_1ParDirCollapse.html).
 
 
-**Together with:** Jean Custy (course head), Yukiko Kenmochi
+**Together with:** Jean Cousty (course head), Yukiko Kenmochi
 
 
 **Duties:** Lectures and labs
