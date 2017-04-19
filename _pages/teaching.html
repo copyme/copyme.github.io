@@ -10,6 +10,6 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
   {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    <p style="text-decoration:underline;"><a href="{{ site.baseurl }}{{ post.url }}">read more</a></p>
   {% endif %}
 {% endfor %}
