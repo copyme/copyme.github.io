@@ -6,9 +6,9 @@ excerpt: '
 **Author(s):** K. Pluta, P. Romon, Y. Kenmochi, N. Passat
 
 
-**Abstract:** Euclidean rotations in $$\Rset^2$$ are bijective and isometric maps, but they lose
-generally these properties when digitized in discrete spaces. In particular, the topological and
-geometrical defects of digitized rigid motions on the square grid have been studied.  In this
+**Abstract:** Euclidean rotations in $$\mathbb{R}^2$$ are bijective and isometric maps, but they
+lose generally these properties when digitized in discrete spaces. In particular, the topological
+and geometrical defects of digitized rigid motions on the square grid have been studied.  In this
 context, the main problem is related to the incompatibility between the square grid and rotations;
 in general, one has to accept either relatively high loss of information or non-exactness of the
 applied digitized rigid motion. Motivated by these considerations, we study digitized rigid motions
@@ -27,9 +27,9 @@ venue: 'Submitted to DGCI17'
 **Author(s):** K. Pluta, P. Romon, Y. Kenmochi, N. Passat
 
 
-**Abstract:** Euclidean rotations in $$\Rset^2$$ are bijective and isometric maps, but they lose
-generally these properties when digitized in discrete spaces. In particular, the topological and
-geometrical defects of digitized rigid motions on the square grid have been studied.  In this
+**Abstract:** Euclidean rotations in $$\mathbb{R}^2$$ are bijective and isometric maps, but they
+lose generally these properties when digitized in discrete spaces. In particular, the topological
+and geometrical defects of digitized rigid motions on the square grid have been studied.  In this
 context, the main problem is related to the incompatibility between the square grid and rotations;
 in general, one has to accept either relatively high loss of information or non-exactness of the
 applied digitized rigid motion. Motivated by these considerations, we study digitized rigid motions

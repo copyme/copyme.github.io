@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Kacper Pluta's web page"
 title_separator          : "-"
 name                     : &name "Kacper Pluta"
 description              : &description "PhD candidate at University Paris-Est"
