@@ -15,7 +15,12 @@ propose two algorithms for verifying whether a given rigid motion restricted to 
 subset of $$\mathbb{Z}^2$$ is bijective.
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/DGCI16_HAL.pdf), [**BibTeX**](../files/DGCI16.bib)' 
+**File(s)**: [**Pre-print (PDF)**](../files/DGCI16_HAL.pdf), [**BibTeX**](../files/DGCI16.bib)
+
+
+**Errata is not provided but several typos and mistakes were corrected in the journal version of
+this paper** (see [**Bijective Digitized Rigid Motions on Subsets of the
+Plane**](../publication/2017-03-10-bijective-digitized-rigid-motions-on-subsets-of-the-plane))'
 date: 2016-04-09
 venue: 'DGCI'
 citation: 'Pluta K., Romon P., Kenmochi Y., Passat N. (2016) Bijective Rigid Motions of the 2D
@@ -36,3 +41,8 @@ subset of $$\mathbb{Z}^2$$ is bijective.
 
 
 **File(s)**: [**Pre-print (PDF)**](../files/DGCI16_HAL.pdf), [**BibTeX**](../files/DGCI16.bib)
+
+
+**Errata is not provided but several typos and mistakes were corrected in the journal version of
+this paper** (see [**Bijective Digitized Rigid Motions on Subsets of the
+Plane**](../publication/2017-03-10-bijective-digitized-rigid-motions-on-subsets-of-the-plane))
