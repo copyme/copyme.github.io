@@ -18,7 +18,8 @@ propose a third algorithm providing optimal angle intervals that preserve this r
 bijectivity.  
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/JIMV17_HAL.pdf), [**BibTeX**](../files/JIMV17.bib)' 
+**File(s)**: [**Pre-print (PDF)**](../files/JIMV17_HAL.pdf), [**BibTeX**](../files/JIMV17.bib),
+[**Errata (2017-04-29)**](../files/JIMV17_ERRATA.pdf)' 
 date: 2017-03-10
 venue: 'JMIV'
 citation: 'Pluta K., Romon P., Kenmochi Y., Passat N. Journal of Mathematical Imaging and Vision
@@ -39,4 +40,5 @@ propose a third algorithm providing optimal angle intervals that preserve this r
 bijectivity.  
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/JIMV17_HAL.pdf), [**BibTeX**](../files/JIMV17.bib)
+**File(s)**: [**Pre-print (PDF)**](../files/JIMV17_HAL.pdf), [**BibTeX**](../files/JIMV17.bib),
+[**Errata (2017-04-29)**](../files/JIMV17_ERRATA.pdf)
