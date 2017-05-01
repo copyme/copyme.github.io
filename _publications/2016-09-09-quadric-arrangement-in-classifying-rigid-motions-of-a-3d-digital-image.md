@@ -21,8 +21,8 @@ arrangement of 81 quadrics and we recovered the classification in less than one 
 equipped with 40 cores. 
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/CASC16_HAL.pdf), [**BibTeX**](../files/CASC16.bib),
-[**Errata (2017-04-29)**](../files/CASC16_ERRATA.pdf)' 
+**File(s)**: [**Pre-print (PDF)**](../files/CASC16_SUB_HAL.pdf), [**BibTeX**](../files/CASC16.bib),
+[**Errata (2017-05-01)**](../files/CASC16_ERRATA.pdf)' 
 date: 2016-09-09
 venue: 'CASC'
 citation: 'Pluta K., Moroz G., Kenmochi Y., Romon P. (2016) Quadric Arrangement in Classifying Rigid
@@ -48,5 +48,5 @@ arrangement of 81 quadrics and we recovered the classification in less than one 
 equipped with 40 cores. 
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/CASC16_HAL.pdf), [**BibTeX**](../files/CASC16.bib),
-[**Errata (2017-04-29)**](../files/CASC16_ERRATA.pdf)
+**File(s)**: [**Pre-print (PDF)**](../files/CASC16_SUB_HAL.pdf), [**BibTeX**](../files/CASC16.bib),
+[**Errata (2017-05-01)**](../files/CASC16_ERRATA.pdf)

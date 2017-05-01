@@ -12,8 +12,8 @@ main:
   - title: "Software"
     url: /software/
 
-  #- title: "Research projects"
-    #url: /projects/
+  - title: "Research projects"
+    url: /projects/
 
   - title: "Awards & Interviews"
     url: /misc/
