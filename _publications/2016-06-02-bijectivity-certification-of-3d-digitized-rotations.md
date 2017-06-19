@@ -34,4 +34,4 @@ certifying the bijectivity of 3D digitized rational rotations using the arithmet
 Lipschitz quaternions.
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/CTICI16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib)
+**File(s)**: [**Pre-print (PDF)**](../files/CTIC16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib)
