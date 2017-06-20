@@ -15,7 +15,7 @@ certifying the bijectivity of 3D digitized rational rotations using the arithmet
 Lipschitz quaternions.
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/CTIC16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib)' 
+**File(s)**: [**Pre-print (PDF)**](../files/CTIC16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib), [**Errata (2017-06-20)**](../files/CTIC16_ERRATA.pdf)' 
 date: 2016-04-09
 venue: 'DGCI'
 citation: 'Pluta K., Romon P., Kenmochi Y., Passat N. (2016) Bijectivity Certification of 3D
@@ -34,4 +34,4 @@ certifying the bijectivity of 3D digitized rational rotations using the arithmet
 Lipschitz quaternions.
 
 
-**File(s)**: [**Pre-print (PDF)**](../files/CTIC16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib)
+**File(s)**: [**Pre-print (PDF)**](../files/CTIC16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib), [**Errata (2017-06-20)**](../files/CTIC16_ERRATA.pdf)
