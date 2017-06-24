@@ -22,7 +22,7 @@ the loss of information between digitized rigid motions defined on the two grids
 [**BibTeX**](https://hal.archives-ouvertes.fr/hal-01497608v1/bibtex)' 
 
 date: 2017-04-18
-venue: 'Submitted to DGCI17'
+venue: 'To appear in DGCI17'
 ---
 **Author(s):** K. Pluta, P. Romon, Y. Kenmochi, N. Passat
 
