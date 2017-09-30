@@ -17,7 +17,7 @@ Lipschitz quaternions.
 
 **File(s)**: [**Pre-print (PDF)**](../files/CTIC16_HAL.pdf), [**BibTeX**](../files/CTIC16.bib), [**Errata (2017-06-20)**](../files/CTIC16_ERRATA.pdf)' 
 date: 2016-04-09
-venue: 'DGCI'
+venue: 'CTIC'
 citation: 'Pluta K., Romon P., Kenmochi Y., Passat N. (2016) Bijectivity Certification of 3D
 Digitized Rotations. In: Bac A., Mari JL. (eds) Computational Topology in Image Context. CTIC 2016.
 Lecture Notes in Computer Science, vol 9667. Springer, pp 30-41, doi:10.1007/978-3-319-39441-1_4'
