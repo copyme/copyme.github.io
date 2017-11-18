@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kacper Pluta's web page"
 title_separator          : "-"
 name                     : &name "Kacper Pluta"
-description              : &description "PhD candidate at University Paris-Est"
+description              : &description "An attaché temporaire d'enseignement et de recherche at University Paris-Est Marne-la-Vallée."
 url                      : "https://perso.esiee.fr"
 baseurl                  : "/~plutak"
 #repository               : "academicpages/academicpages.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : Kacper Pluta
   avatar           : "KACPER_PLUTA.png"
-  bio              : "I am a PhD student in Computer Science at University Paris-Est where I am a part of laboratories LAMA and LIGM (team A3SI)."
+  bio              : "I am an attaché temporaire d'enseignement et de recherche at University Paris-Est Marne-la-Vallée and I am a member of Gaspard Monge Institute of Electronics and Computer Science (team A3SI)."
   location         : "Paris, France"
   employer         : 
   googlescholar    : 
