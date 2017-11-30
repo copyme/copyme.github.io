@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<meta http-equiv="refresh" content="0; url=https://perso.esiee.fr/~plutak/files/Kacper_PLUTA_CV_ENG.pdf"/>
+
+
 {% include base_path %}
 
 Education

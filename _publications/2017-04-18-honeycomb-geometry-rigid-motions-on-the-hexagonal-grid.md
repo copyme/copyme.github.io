@@ -18,11 +18,14 @@ This allows us to study non-injective digitized rigid motions on the hexagonal g
 the loss of information between digitized rigid motions defined on the two grids.
 
 
-**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document), 
-[**BibTeX**](https://hal.archives-ouvertes.fr/hal-01497608v1/bibtex)' 
+**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document),
+[**BibTeX**](../files/DGCI17.bib)' 
 
 date: 2017-04-18
-venue: 'To appear in DGCI17'
+venue: 'DGCI'
+citation: 'Pluta K., Romon P., Kenmochi Y., Passat N. (2017) Honeycomb geometry: Rigid Motions on
+the Hexagonal Grid. In: Discrete Geometry for Computer Imagery. DGCI 2017. Lecture Notes in Computer
+Science, vol 10502. Springer, pp 33-45, doi:10.1007/978-3-319-66272-5_4'
 ---
 **Author(s):** K. Pluta, P. Romon, Y. Kenmochi, N. Passat
 
@@ -39,5 +42,6 @@ This allows us to study non-injective digitized rigid motions on the hexagonal g
 the loss of information between digitized rigid motions defined on the two grids.
 
 
-**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document), 
-[**BibTeX**](https://hal.archives-ouvertes.fr/hal-01497608v1/bibtex)
+**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document),
+[**BibTeX**](../files/DGCI17.bib)
+
