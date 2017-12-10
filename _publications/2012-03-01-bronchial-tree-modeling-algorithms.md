@@ -22,7 +22,7 @@ trees.
 **File(s):**
 [**PDF**](../files/MIS2012.pdf), [**BibTex**](../files/MIS2012.bib)' 
 date: 2012-10-01
-venue: 'MIS'
+venue: 'SMiSKT'
 citation: 'Pluta K., Postolski M., & Janaszewski M. (2012). Algorytmy modelowania drzewa
 oskrzelowego. Zeszyty Naukowe Wyższej Szkoły Informatyki, 11, 152-170.' 
 ---
