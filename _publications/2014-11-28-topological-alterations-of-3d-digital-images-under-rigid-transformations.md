@@ -3,7 +3,7 @@ title: "Topological alterations of 3D digital images under rigid transformations
 collection: publications
 permalink: /publication/2014-11-28-topological-alterations-of-3d-digital-images-under-rigid-transformations 
 excerpt: '
-**Author(s):** K. Pluta, Y. Kenmochi, N. Passat, H. Tablbot and P. Romon
+**Author(s):** Pluta K., Kenmochi Y., Passat N., Talbot H. and Romon P.
 
 
 **Abstract:** Rigid transformations in $$\mathbb{R}^n$$ are known to preserve the shape, and are
@@ -24,7 +24,7 @@ venue: 'HAL (research report)'
 citation: 'Pluta K., Kenmochi Y., Passat N., Talbot H., Romon P. (2016) Topological alterations of
 3D digital images under rigid transformations. HAL, https://hal.archives-ouvertes.fr/hal-01333586'
 ---
-**Author(s):** K. Pluta, Y. Kenmochi, N. Passat, H. Tablbot and P. Romon
+**Author(s):** Pluta K., Kenmochi Y., Passat N., Talbot H. and Romon P.
 
 
 **Abstract:** Rigid transformations in $$\mathbb{R}^n$$ are known to preserve the shape, and are
