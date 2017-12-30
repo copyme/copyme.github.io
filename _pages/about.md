@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am affiliated with University Paris-Est Marne-la-Vallée and Gaspard Monge Institute of
+Currently I am affiliated with University Paris-Est Marne-la-Vallée and Gaspard Monge Laboratory of
 Electronics and Computer Science. My PhD dissertation—which I prepared under a supervision of
 [Yukiko Kenmochi](http://igm.univ-mlv.fr/~kenmochi/) and [Pascal
 Romon](http://perso-math.univ-mlv.fr/users/romon.pascal/)—was a study of rigid motions on discrete

@@ -82,7 +82,7 @@ author:
   bio              : "I am an attaché temporaire d'enseignement et de recherche at University Paris-Est Marne-la-Vallée and I am a member of Gaspard Monge Laboratory of Electronics and Computer Science (team A3SI)."
   location         : "Paris, France"
   employer         : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=pjYR0vcAAAAJ"
   email            : "kacper.pluta@univ-paris-est.fr"
   uri              : 
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/0000-0002-3623-1412"
+  orcid            : "http://orcid.org/0000-0002-3623-1412"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
