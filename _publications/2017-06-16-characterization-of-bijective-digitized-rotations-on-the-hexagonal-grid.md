@@ -14,11 +14,11 @@ by Roussillon and Cœurjolly. In this article, we characterize bijective digitiz
 hexagonal grid using arithmetical properties of the Eisenstein integers.
 
 
-**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01540772/document), 
-[**BibTeX**](https://hal.archives-ouvertes.fr/hal-01540772v1/bibtex)' 
+**File(s)**: [**Preprint (PDF)**](https://hal.archives-ouvertes.fr/hal-01540772/document), 
+[**BibTeX**](../files/JIMV18.bib)'
 
 date: 2017-06-16
-venue: 'Submitted to Journal of Mathematical Imaging and Vision'
+venue: 'To appear in Journal of Mathematical Imaging and Vision'
 ---
 **Author(s):** K. Pluta, T. Roussillon, D. Cœurjolly, P. Romon, Y. Kenmochi, V. Ostromoukhov 
 
@@ -31,5 +31,5 @@ by Roussillon and Cœurjolly. In this article, we characterize bijective digitiz
 hexagonal grid using arithmetical properties of the Eisenstein integers.
 
 
-**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01540772/document), 
-[**BibTeX**](https://hal.archives-ouvertes.fr/hal-01540772v1/bibtex)
+**File(s)**: [**Preprint (PDF)**](https://hal.archives-ouvertes.fr/hal-01540772/document), 
+[**BibTeX**](../files/JIMV18.bib)
