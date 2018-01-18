@@ -18,7 +18,7 @@ This allows us to study non-injective digitized rigid motions on the hexagonal g
 the loss of information between digitized rigid motions defined on the two grids.
 
 
-**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document),
+**File(s)**: [**Preprint (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document),
 [**BibTeX**](../files/DGCI17.bib)' 
 
 date: 2017-04-18
@@ -42,6 +42,6 @@ This allows us to study non-injective digitized rigid motions on the hexagonal g
 the loss of information between digitized rigid motions defined on the two grids.
 
 
-**File(s)**: [**Pre-refereeing (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document),
+**File(s)**: [**Preprint (PDF)**](https://hal.archives-ouvertes.fr/hal-01497608/document),
 [**BibTeX**](../files/DGCI17.bib)
 
