@@ -29,5 +29,5 @@ Before I worked with [Marcin Janaszewski](https://www.researchgate.net/profile/M
 and [Michał Postolski](https://www.researchgate.net/profile/Michat_Postolski) on problems related to
 modeling and segmentation of human airways.
 
-My current [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3. 
+My current [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3.
 
