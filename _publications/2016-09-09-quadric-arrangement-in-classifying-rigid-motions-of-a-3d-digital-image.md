@@ -22,7 +22,7 @@ equipped with 40 cores.
 
 
 **File(s)**: [**Pre-print (PDF)**](../files/CASC16_SUB_HAL.pdf), [**BibTeX**](../files/CASC16.bib),
-[**Errata (2017-08-02)**](../files/CASC16_ERRATA.pdf)' 
+[**Errata (2018-06-25)**](../files/CASC16_ERRATA.pdf)' 
 date: 2016-09-09
 venue: 'CASC'
 citation: 'Pluta K., Moroz G., Kenmochi Y., Romon P. (2016) Quadric Arrangement in Classifying Rigid
@@ -49,4 +49,4 @@ equipped with 40 cores.
 
 
 **File(s)**: [**Pre-print (PDF)**](../files/CASC16_SUB_HAL.pdf), [**BibTeX**](../files/CASC16.bib),
-[**Errata (2017-08-02)**](../files/CASC16_ERRATA.pdf)
+[**Errata (2018-06-25)**](../files/CASC16_ERRATA.pdf)
