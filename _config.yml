@@ -17,6 +17,8 @@ repository               : "copyme/copyme.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -47,7 +49,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -56,7 +58,7 @@ yandex_site_verification :
 twitter:
   username               : 
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -72,29 +74,29 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 
 # Site Author
 author:
   name             : Kacper Pluta
   avatar           : "KACPER_PLUTA.png"
-  bio              : "I am an attaché temporaire d'enseignement et de recherche at University Paris-Est Marne-la-Vallée and I am a member of Gaspard Monge Laboratory of Electronics and Computer Science (team A3SI)."
+  bio              : "From the 1st October 2018 I will be a postdoctoral fellow at the Technion - Israel Institute of Technology."
   location         : "Paris, France"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=pjYR0vcAAAAJ"
-  email            : "kacper.pluta@univ-paris-est.fr"
+  email            : "kacper.pluta@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
   github           : "copyme"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-3623-1412"
@@ -109,7 +111,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : 
+  wikipedia        :
 
 
 # Reading Files
@@ -263,7 +265,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
