@@ -39,7 +39,7 @@ rotation—related to a Lipschitz quaternion—is bijective.
 
 
 **File:**
-[**TAL public repository**](https://tel.archives-ouvertes.fr/tel-01704791)'
+[**TEL public repository**](https://tel.archives-ouvertes.fr/tel-01704791)'
 date: 2017-11-16
 venue: 'UPE' 
 citation: 'Pluta K.: Discrete Spaces on Discrete Spaces.
@@ -80,7 +80,7 @@ quaternions. This leads to an algorithm which answers whether a given digitized
 rotation—related to a Lipschitz quaternion—is bijective. 
 
 **File:**
-[**TAL public repository**](https://tel.archives-ouvertes.fr/tel-01704791)
+[**TEL public repository**](https://tel.archives-ouvertes.fr/tel-01704791)
 
 
 
