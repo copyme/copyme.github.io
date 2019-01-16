@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am affiliated with the Technion - Israel Institute of Technology. My PhD dissertation—which I prepared under a supervision of
+Currently, I am affiliated with the Technion - Israel Institute of Technology. My Ph.D. dissertation—which I prepared under the supervision of
 [Yukiko Kenmochi](http://igm.univ-mlv.fr/~kenmochi/) and [Pascal
 Romon](http://perso-math.univ-mlv.fr/users/romon.pascal/)—was a study of rigid motions on discrete
 spaces. 
@@ -24,7 +24,7 @@ Moroz](https://members.loria.fr/GMoroz/), [David Cœurjolly](http://liris.cnrs.f
 Ostromoukhov](https://liris.cnrs.fr/victor.ostromoukhov/) and [Gisela
 Domej](https://giz-geo.jimdo.com/).
 
-Before I worked with [Marcin Janaszewski](https://www.researchgate.net/profile/Marcin_Janaszewski)
+Before my Ph.D., I worked with [Marcin Janaszewski](https://www.researchgate.net/profile/Marcin_Janaszewski)
 and [Michał Postolski](https://www.researchgate.net/profile/Michat_Postolski) on problems related to
 modeling and segmentation of human airways.
 
