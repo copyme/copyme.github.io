@@ -17,7 +17,7 @@ My research focuses on topological and geometric alterations induced by digitize
 defined on regular grids. I am mainly interested in theoretical aspects of digital geometry and
 digital topology.
 
-During last four years I have collaborated with [Nicolas
+During the last four years I have collaborated with [Nicolas
 Passat](http://crestic.univ-reims.fr/membre/1542-nicolas-passat), [Guillaume
 Moroz](https://members.loria.fr/GMoroz/), [David Cœurjolly](http://liris.cnrs.fr/%7Edcoeurjo/),
 [Tristan Roussillon](http://liris.cnrs.fr/~troussil/), [Victor
