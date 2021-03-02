@@ -26,9 +26,10 @@ DGtal and a set of tools and binaries DGtalTools.
 
 **List of contributions (DGtalTools):**
 
-- rigidTransform2D 
-- rigidTransform3D 
-- 3dCurveTangentEstimator (support for LambdaMST3D) 
+- [3dParametricCurveDigitizer](https://github.com/DGtal-team/DGtalTools/blob/master/generators/3dParametricCurveDigitizer.cpp)
+- [rigidTransform2D](https://github.com/DGtal-team/DGtalTools/blob/master/geometricTransform/rigidTransform2D.cpp) 
+- [rigidTransform3D](https://github.com/DGtal-team/DGtalTools/blob/master/geometricTransform/rigidTransform3D.cpp) 
+- [3dCurveTangentEstimator (support for LambdaMST3D)](https://github.com/DGtal-team/DGtalTools/blob/master/estimators/3dCurveTangentEstimator.cpp) 
 
 
 **License:** LGPLv3
