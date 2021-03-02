@@ -13,12 +13,13 @@ DGtal and a set of tools and binaries DGtalTools.
 
 **List of contributions (DGtal):**
 
-- [RigidTransformation2D](http://dgtal.org/doc/stable/RigidTransformation2D_8h_source.html) 
-- [RigidTransformation3D](http://dgtal.org/doc/stable/RigidTransformation2D_8h_source.html) 
+- [Parametric curve digitization package](https://dgtal.org/doc/stable/moduleParametricCurves.html)
 - [LambdaMST2D (maximal segment tangent estimator 2D)](http://dgtal.org/doc/stable/classDGtal_1_1LambdaMST2D.html)
 - [LambdaMST3D (maximal segment tangent estimator 3D)](http://dgtal.org/doc/stable/classDGtal_1_1LambdaMST3D.html)
 - [Naive3DDSSComputer (digital straight line computer)](http://dgtal.org/doc/stable/classDGtal_1_1Naive3DDSSComputer.html) 
-- [ParDirCollapse, CollapseSurface and CollapseIsthmus (together with ESIEE Paris students: Bibiana Martinez, Mohamed Mellouli and Mohamad Onayssi)](http://dgtal.org/doc/stable/ParDirCollapse_8h_source.html) 
+- [ParDirCollapse, CollapseSurface and CollapseIsthmus (together with my students from ESIEE Paris: Bibiana Martinez, Mohamed Mellouli and Mohamad Onayssi)](http://dgtal.org/doc/stable/ParDirCollapse_8h_source.html) 
+- [RigidTransformation2D](http://dgtal.org/doc/stable/RigidTransformation2D_8h_source.html) 
+- [RigidTransformation3D](http://dgtal.org/doc/stable/RigidTransformation2D_8h_source.html) 
 - [Linux packages (openSUSE, Fedora, Redhat and its flavors, Arch Linux](https://software.opensuse.org//download.html?project=home%3Acopyme%3ADGtal&package=libDGtal) 
 - [Linux packages (Debian and Ubuntu)](https://software.opensuse.org//download.html?project=home%3Acopyme%3ADGtal&package=dgtal) 
 
