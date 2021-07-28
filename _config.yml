@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kacper Pluta's web page"
 title_separator          : "-"
 name                     : &name "Kacper Pluta"
-description              : &description "I am a research engineer at Inria Sophia Antipolis Méditerranée."
+description              : &description "I am a research engineer at Inria Sophia-Antipolis Méditerranée."
 url                      : "https://copyme.github.io"
 baseurl                  : ""
 repository               : "copyme/copyme.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : Kacper Pluta
   avatar           : "KACPER_PLUTA.png"
-  bio              : "I am a postdoctoral fellow at the Technion - Israel Institute of Technology."
-  location         : "Haifa, Israel"
+  bio              : "I am a research engineer at Inria Sophia-Antipolis Méditerranée."
+  location         : "Sophia-Antipolis, France"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pjYR0vcAAAAJ"
