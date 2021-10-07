@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am affiliated with the Technion - Israel Institute of Technology where I work on problems related to geometry processing. My post-doctoral advisor is [Mirela Ben-Chen](https://mirela.net.technion.ac.il/). 
+
+
+Currently, I am affiliated with Inria Sophia Antipolis — Méditerranée ([TITANE team](https://team.inria.fr/titane/team/)). My research at Inria is focused on the problems identified by the [BIM2TWIN project](https://bim2twin.eu/). These include but are not limited to quality assessment of elements built on construction sites in using sensing technologies and geometry processing. My supervisonr at Inria is [Pierre Alliez](https://team.inria.fr/titane/team/pierre-alliez/). 
+
+Before I started working at Inria, I was affiliated with the Technion - Israel Institute of Technology, where I worked in the group of [Mirela Ben-Chen](https://mirela.net.technion.ac.il/) on problems related to geometry processing.
+
 My Ph.D. dissertation—which I prepared under the supervision of
 [Yukiko Kenmochi](http://igm.univ-mlv.fr/~kenmochi/) and [Pascal
 Romon](http://perso-math.univ-mlv.fr/users/romon.pascal/)—was a study of rigid motions on discrete
