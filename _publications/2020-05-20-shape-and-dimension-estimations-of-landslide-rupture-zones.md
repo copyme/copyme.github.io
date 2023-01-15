@@ -12,6 +12,7 @@ excerpt: '
 **File:**
 [**ResearchGate link**](https://www.researchgate.net/publication/341556554_Shape_and_Dimension_Estimations_of_Landslide_Rupture_Zones_via_Correlations_of_Characteristic_Parameters)'
 date: 2020-05-20
+venue: 'Geosciences'
 citation: 'Domej, G., Bourdeau, C., Lenti, L., Martino, S., & Pluta, K. (2020). Shape and Dimension Estimations of Landslide Rupture Zones via Correlations of Characteristic Parameters. Geosciences, 10(5), 198.' 
 ---
 **Author(s):** G. Domej, C. Bourdeau, L. Lenti, S. Martino, K. Pluta
