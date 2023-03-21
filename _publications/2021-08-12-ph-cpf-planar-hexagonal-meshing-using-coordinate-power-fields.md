@@ -11,7 +11,7 @@ excerpt: '
 
 **File:**
 [**ACM link**](https://dl.acm.org/doi/10.1145/3450626.3459770)'
-date: 2020-05-20
+date: 2021-08-12
 venue: 'SIGGRAPH 2021'
 citation: 'Pluta K., Edelstein M., Vaxman A., Ben-Chen M. 2021. PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields. ACM Transactions on Graphics, 40(4), 1–19.' 
 

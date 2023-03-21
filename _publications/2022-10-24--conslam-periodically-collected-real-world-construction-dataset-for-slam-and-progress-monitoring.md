@@ -11,7 +11,7 @@ excerpt: '
 
 **File:**
 [**HAL link**](https://hal.inria.fr/hal-03883866/file/047.pdf)'
-date: 2020-05-20
+date: 2022-10-24
 venue: 'ECCV 2022'
 citation: 'Trzeciak M., Pluta K., Fathy Y., Alcalde L., Chee S., et al. 2022. ConSLAM: Periodically Collected Real-World Construction Dataset for SLAM and Progress Monitoring. Lecture Notes in Computer Science, 13807' 
 
