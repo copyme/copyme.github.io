@@ -1,5 +1,5 @@
 ---
-title: " PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields"
+title: "PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields"
 collection: publications
 permalink: /publication/2021-08-12-ph-cpf-planar-hexagonal-meshing-using-coordinate-power-fields
 excerpt: '
@@ -13,7 +13,7 @@ excerpt: '
 [**ACM link**](https://dl.acm.org/doi/10.1145/3450626.3459770)'
 date: 2020-05-20
 venue: 'SIGGRAPH 2021'
-citation: 'Pluta K., Edelstein M., Vaxman A., Ben-Chen M. (2021). PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields. ACM Transactions on Graphics, 40(4), 1–19.' 
+citation: 'Pluta K., Edelstein M., Vaxman A., Ben-Chen M. 2021. PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields. ACM Transactions on Graphics, 40(4), 1–19.' 
 
 ---
 **Author(s):** K. Pluta, M. Edelstein, A. Vaxman, M. Ben-Chen
