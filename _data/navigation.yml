@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/*
-    
-  - title: "Test"
-    url: /publications/    
 
   - title: "Talks"
     url: /talks/ 
