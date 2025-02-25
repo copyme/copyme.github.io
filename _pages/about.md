@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 
+# Page Under Construction!  
+
+Currently, much of the information is outdated!
+
+
 
 Currently, I am affiliated with Inria Sophia Antipolis — Méditerranée ([TITANE team](https://team.inria.fr/titane/team/)). My research at Inria is focused on the problems identified by the [BIM2TWIN project](https://bim2twin.eu/). These include but are not limited to quality assessment of elements built on construction sites in using sensing technologies and geometry processing. My supervisonr at Inria is [Pierre Alliez](https://team.inria.fr/titane/team/pierre-alliez/). 
 
