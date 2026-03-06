@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kacper Pluta's web page"
 title_separator          : "-"
 name                     : &name "Kacper Pluta"
-description              : &description "I am an associate professor at ESIEE Paris (Gustave Eiffel University)"
+description              : &description "I am an associate professor at ESIEE Paris (Gustave Eiffel University)."
 url                      : "https://copyme.github.io"
 baseurl                  : ""
 repository               : "copyme/copyme.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : Kacper Pluta
   avatar           : "KACPER_PLUTA.png"
-  bio              : "I am a research engineer at Inria Sophia-Antipolis Méditerranée."
+  bio              : "I am an associate professor at ESIEE Paris (Gustave Eiffel University)."
   location         : "Sophia-Antipolis, France"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pjYR0vcAAAAJ"
-  email            : "kacper.pluta@inria.fr"
+  email            : "kacper.pluta@esiee.fr"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
