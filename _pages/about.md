@@ -11,13 +11,9 @@ redirect_from:
 
 # Page Under Construction!  
 
-Currently, much of the information is outdated!
+I am an associate professor at ESIEE Paris (Gustave Eiffel University), and a co-coordinator of the CS and Applications (FI) apprenticeship program. My current research at ESIEE is focused on problems related to geometr and its applications in, e.g., construction industry and digital twins. 
 
-
-
-Currently, I am affiliated with Inria Sophia Antipolis — Méditerranée ([TITANE team](https://team.inria.fr/titane/team/)). My research at Inria is focused on the problems identified by the [BIM2TWIN project](https://bim2twin.eu/). These include but are not limited to quality assessment of elements built on construction sites in using sensing technologies and geometry processing. My supervisonr at Inria is [Pierre Alliez](https://team.inria.fr/titane/team/pierre-alliez/). 
-
-Before I started working at Inria, I was affiliated with the Technion - Israel Institute of Technology, where I worked in the group of [Mirela Ben-Chen](https://mirela.net.technion.ac.il/) on problems related to geometry processing.
+Before joining ESIEE I worked on the [BIM2TWIN](https://bim2twin.eu/) project at Inria Sophia-Antipolis in TITANE, the team of [Pierre Alliez](https://www.inria.fr/fr/pierre-alliez), and before that I was affiliated with the Technion - Israel Institute of Technology, where I worked in [Mirela Ben-Chen](https://mirela.net.technion.ac.il/)’s group on problems related to geometry processing.
 
 My Ph.D. dissertation—which I prepared under the supervision of
 [Yukiko Kenmochi](http://igm.univ-mlv.fr/~kenmochi/) and [Pascal
@@ -28,16 +24,4 @@ My research focuses on topological and geometric alterations induced by digitize
 defined on regular grids. I am mainly interested in theoretical aspects of digital geometry and
 digital topology.
 
-During the last four years, I have collaborated with [Nicolas
-Passat](http://crestic.univ-reims.fr/membre/1542-nicolas-passat), [Guillaume
-Moroz](https://members.loria.fr/GMoroz/), [David Cœurjolly](http://liris.cnrs.fr/%7Edcoeurjo/),
-[Tristan Roussillon](http://liris.cnrs.fr/~troussil/), [Victor
-Ostromoukhov](https://liris.cnrs.fr/victor.ostromoukhov/) and [Gisela
-Domej](https://giz-geo.jimdo.com/).
-
-Before my Ph.D., I worked with [Marcin Janaszewski](https://www.researchgate.net/profile/Marcin_Janaszewski)
-and [Michał Postolski](https://www.researchgate.net/profile/Michat_Postolski) on problems related to
-modeling and segmentation of human airways.
-
 My current [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3.
-
