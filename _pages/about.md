@@ -11,7 +11,7 @@ redirect_from:
 
 # Page Under Construction!  
 
-I am an associate professor at ESIEE Paris (Gustave Eiffel University), and a co-coordinator of the CS and Applications (FI) apprenticeship program. My current research at ESIEE is focused on problems related to geometr and its applications in, e.g., construction industry and digital twins. 
+I am an associate professor at ESIEE Paris (Gustave Eiffel University), and a co-coordinator of the CS and Applications (FI) apprenticeship program. My current research at ESIEE is focused on problems related to geometry and its applications in, e.g., construction industry and digital twins. 
 
 Before joining ESIEE I worked on the [BIM2TWIN](https://bim2twin.eu/) project at Inria Sophia-Antipolis in TITANE, the team of [Pierre Alliez](https://www.inria.fr/fr/pierre-alliez), and before that I was affiliated with the Technion - Israel Institute of Technology, where I worked in [Mirela Ben-Chen](https://mirela.net.technion.ac.il/)’s group on problems related to geometry processing.
 
